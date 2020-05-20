@@ -77,7 +77,7 @@ Shift + Enter, which should make it a little smoother to work your way through.
 Lastly, don’t forget, you made a copy of this Notebook, so feel free to make asmany changesas
 you want. If it helps, you can add print statements after every single line! Good luck and have fun!
 
-```
+
 ![Alt text](Assignment-0/Misc/after_run.png?raw=true "Title")
-```
+
 
