@@ -1,7 +1,3 @@
-# Assignment-0
-Step-by-step Guide to MNIST Image Classification with Keras
-
-
 # Assignment Zero: MNIST Classification
 
 In this assignment, you will implement Python code to perform classification on the MNIST dataset
