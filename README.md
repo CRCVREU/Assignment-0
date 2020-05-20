@@ -14,6 +14,11 @@ with the objective being to better understand how the code works.
 
 1. Navigate tohttps://colab.research.google.com/and select ”New Notebook” as in the
     following figures.
+
+    <p align="center">
+        <img width="700" src="Misc/colab.png">
+    </p>
+
 2. Navigate to https://keras.io/examples/mnist_cnn/. Copy and paste the code into the
     first ”cell” of the Colab Notebook.
 3. On the first line, add in the statement
@@ -39,9 +44,15 @@ history = model.fit(...
        print([(key, round(value[0], 4)) for key, value in history.history.items()])
 8. To run the code, press the PlayIbutton as shown inFigure 3.
 
-```
-Figure 3. Run Colab Notebook Code
-```
+
+<p align="center">
+  <img width="450" src="Misc/run.png">
+</p>
+
+<p align="center">
+  Figure 3. Run Colab Notebook Code
+</p>
+
 9. If your code runs, congratulations!! Your output should look like the Output.txt file that is
     with this document. If your code doesn’t work or your output doesn’t match, try re-tracing
     your steps and making sure you did everything correctly. If that doesn’t work, try Googling
@@ -61,9 +72,15 @@ to the Colab Notebook athttps://bit.ly/2Yqiqjnand select the “Save a copy in D
 tion under the “File” Menu. Once you have done that, the file name should now be “Copy of
 KerasMNIST.ipynb” and you can run the first cell, as shown inFigure 4below.
 
-```
-Figure 4: Save a Copy and Run First Cell
-```
+
+<p align="center">
+  <img width="550" src="Misc/run_cell1.png">
+</p>
+
+<p align="center">
+  Figure 4: Save a Copy and Run First Cell
+</p>
+
 Once you’ve run this cell, the empty square brackets at the left of the cell should now read [1] (see
 Figure 5), as opposed to [ ] before we ran the cell (e.g. look at cell 2 inFigure 5, it’s [ ] because
 it hasn’t been run yet).
@@ -77,12 +94,10 @@ Shift + Enter, which should make it a little smoother to work your way through.
 Lastly, don’t forget, you made a copy of this Notebook, so feel free to make asmany changesas
 you want. If it helps, you can add print statements after every single line! Good luck and have fun!
 
-
-
 <p align="center">
   <img width="550" src="Misc/after_run.png">
 </p>
 
 <p align="center">
-  __Figure 5: After Running Cell 1__
+  Figure 5: After Running Cell 1
 </p>
