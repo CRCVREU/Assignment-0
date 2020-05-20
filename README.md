@@ -64,7 +64,7 @@ fromPart I. I have added some additional lines to the code you will be examining
 only as aides to better illustrate the concepts therein.
 
 To get started, you will need to be signed in to your Google account. Once signed in, navigate
-to the Colab Notebook athttps://bit.ly/2Yqiqjnand select the “Save a copy in Drive” op-
+to the Colab Notebook at [Notebook](MNIST_Keras_Part_2.ipynb) select the “Save a copy in Drive” op-
 tion under the “File” Menu. Once you have done that, the file name should now be “Copy of
 KerasMNIST.ipynb” and you can run the first cell, as shown inFigure 4below.
 
