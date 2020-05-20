@@ -78,6 +78,7 @@ Lastly, don’t forget, you made a copy of this Notebook, so feel free to make a
 you want. If it helps, you can add print statements after every single line! Good luck and have fun!
 
 ```
+![Alt text](Misc/after_run.png?raw=true "Title")
 Figure 5: After Running Cell 1
 ```
 
