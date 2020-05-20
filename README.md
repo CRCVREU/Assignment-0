@@ -79,6 +79,5 @@ you want. If it helps, you can add print statements after every single line! Goo
 
 ```
 ![Alt text](Assignment-0/Misc/after_run.png?raw=true "Title")
-Figure 5: After Running Cell 1
 ```
 
