@@ -1,5 +1,8 @@
 # Assignment Zero: MNIST Classification
 
+Author: https://github.com/Robert-Browning/
+
+
 In this assignment, you will implement Python code to perform classification on the MNIST dataset
 using the deep learning framework Keras. There are two parts to this assignment. InPart I,your
 main goal will be to simply get the code running. Hopefully this will build your confidence to move
