@@ -1,12 +1,12 @@
 # Assignment Zero: MNIST Classification
 
-Author: https://github.com/Robert-Browning/
+Author: [@Robert-Browning](https://github.com/Robert-Browning/)
 
 
 In this assignment, you will implement Python code to perform classification on the MNIST dataset
-using the deep learning framework Keras. There are two parts to this assignment. InPart I,your
+using the deep learning framework Keras. There are two parts to this assignment. In Part I, your
 main goal will be to simply get the code running. Hopefully this will build your confidence to move
-on to the next part. InPart II, you will “tease” apart the code fromPart I, section by section,
+on to the next part. In Part II, you will “tease” apart the code from Part I, section by section,
 with the objective being to better understand how the code works.
 
 # Part I: Create and Run a Python Notebook
@@ -28,20 +28,20 @@ with the objective being to better understand how the code works.
     reproducible results, this starts random computation off at the same place every run.
 
 
-5. Immediatelyfollowingthe line containing
-    model.add(Dense(num classes, activation=’softmax’))andbeforethe line containing
+5. Immediately following the line containing
+    model.add(Dense(num classes, activation=’softmax’))and beforethe line containing
     model.compile..., add the line
        print(model.summary())
     This will print a summary of your model’s architecture and parameters.
-6. Change the line that hasmodel.fit(...to
+6. Change the line that has model.fit(... to
 
 ```
 history = model.fit(...
 ```
-7. Delete the last three lines of code, i.e. score = ...,print(’Test..., andprint(’Test... and
+7. Delete the last three lines of code, i.e. score = ..., print(’Test..., and print(’Test... and
     replace them with
        print([(key, round(value[0], 4)) for key, value in history.history.items()])
-8. To run the code, press the PlayIbutton as shown inFigure 3.
+8. To run the code, press the Play button as shown in Figure 3.
 
 
 <p align="center">
@@ -60,10 +60,10 @@ history = model.fit(...
 
 # Part II: Understanding Part I
 
-InPart Iyou successfully ran Python code which uses a Convolutional Neural Network to classify
+In Part I you successfully ran Python code which uses a Convolutional Neural Network to classify
 the images in the MNIST dataset. For many of you, that probably doesn’t make a lot of sense. So
 our goal in this part of the assignment will be to take a closer look at what’s happening in the code
-fromPart I. I have added some additional lines to the code you will be examining. These serve
+from Part I. I have added some additional lines to the code you will be examining. These serve
 only as aides to better illustrate the concepts therein.
 
 To get started, you will need to be signed in to your Google account. Once signed in, navigate
