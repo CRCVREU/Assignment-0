@@ -11,7 +11,7 @@ with the objective being to better understand how the code works.
 
 # Part I: Create and Run a Python Notebook
 
-1. Navigate tohttps://colab.research.google.com/and select ”New Notebook” as in the
+1. Navigate to https://colab.research.google.com/ and select ”New Notebook” as in the
     following figures.
 
     <p align="center">
