@@ -18,7 +18,7 @@ with the objective being to better understand how the code works.
         <img width="700" src="Misc/colab.png">
     </p>
 
-2. Navigate to https://keras.io/examples/mnist_cnn/. Copy and paste the code into the
+2. Navigate to https://keras.io/examples/vision/mnist_convnet/. Copy and paste the code into the
     first ”cell” of the Colab Notebook.
 3. On the first line, add in the statement
     import numpy as np
